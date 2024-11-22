@@ -1,4 +1,4 @@
-![Captura de tela de 2024-11-21 20-56-17](https://github.com/user-attachments/assets/10e829ac-f094-4724-948a-e8967707a22b)# mapa54-hello-world
+# mapa54-hello-world
 Este repositório para realização da minha atividade acadêmica
 
   Olá, me chamo Gabriel,sou ex-militar das Forças Armadas, servi por seis anos na Aeronáutica, 
